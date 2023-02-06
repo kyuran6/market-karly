@@ -12,13 +12,11 @@
 
 /* 헤더 */
 .header {
-  height: 125px;
-  background: Pink;
+  height: 125px; 
 }
 
 /* 네비게이션 */
 .navigation {
-  background: DeepSkyBlue;
   height: 72px;
 }
 
